@@ -6,7 +6,7 @@ A ContaJá é uma empresa especialista em aberturas de empresas de todo Brasil c
 
 Para que nossos clientes possam desfrutar de uma boa experiência em nossa plataforma de onboarding, nossa equipe de experiência do usuário coletou todos os dados necessários para planejar um novo fluxo de coleta de dados.
 
-Com o novo fluxo planejado, a equipe de prototipação estudou todos os fluxos e implementou a nossa nova interface, você pode conferir como ficou: [Interface do Usuário](http://exemplo.com/).
+Com o novo fluxo planejado, a equipe de prototipação estudou todos os fluxos e implementou a nossa nova interface, você pode conferir como ficou: [Interface do Usuário](https://www.figma.com/file/UVH37bGENYrzIN2CQhiqgP/Prot%C3%B3tipo---Onboarding-%2F-Abertura?node-id=14%3A21840).
 
 Uma API foi desenvolvida com todas as funcionalidades necessárias para o desenvolvimento do front-end de forma desacoplada do back-end. Você pode verificar como ficou essas rotas agora mesmo: [API](https://drive.google.com/drive/folders/1ZFXsXljGKcYGUif0ezkiJ8ldHsGvu4kY?usp=sharing).
 
